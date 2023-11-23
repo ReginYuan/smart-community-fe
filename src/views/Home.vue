@@ -151,7 +151,7 @@ export default {
       }
     }
     .nav-menu {
-      height: calc(100vh-50px);
+      height: calc(100vh - 50px);
       border-right: none;
     }
     // 合并左侧菜单
