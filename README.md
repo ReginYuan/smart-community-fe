@@ -1,2 +1,2 @@
-# smart-community-fe
-智慧社区后台管理
+# vue3-manager
+
