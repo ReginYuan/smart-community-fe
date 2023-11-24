@@ -2,9 +2,9 @@
   <div class="welcome">
     <div class="content">
       <div class="sub-title">欢迎使用</div>
-      <div class="title">紫荆科技人员管理系统</div>
+      <div class="title">大屏管理系统</div>
       <div class="desc">
-        -紫荆科技人员管理系统,管理本公司人员日常工作以及考勤
+        -大屏管理系统,管理本部门大屏的使用以及展示
       </div>
     </div>
     <div class="img"></div>
