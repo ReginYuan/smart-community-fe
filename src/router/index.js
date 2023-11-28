@@ -13,7 +13,7 @@ const routes = [
         path: '/welcome',
         name: 'welcome',
         meta: {
-          title: '欢迎页'
+          title: '案件页面'
         },
         component: () => import('@/views/Welcome.vue'),
       },
